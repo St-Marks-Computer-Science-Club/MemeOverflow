@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8N4i8N4N4K9N4_st-marks-school-of-texas-logo%2F&psig=AOvVaw3OgS_xpqPW6c_gO_LpHgKz&ust=1632094705051000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCypd7YifMCFQAAAAAdAAAAABAD)
+# MemeOverflow, A website where people can post memes
+>>>>>>> f94e2b00f9c05049201a8baed481ff8f081c7ccf
