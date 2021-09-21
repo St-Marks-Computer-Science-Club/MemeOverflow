@@ -1,10 +1,13 @@
-
+import { AppBar } from '@material-ui/core';
+import firebase from './firebase/config'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>MemeOverflow</h1>
+      <AppBar>
+        <h1>MemeOverflow</h1>
+      </AppBar>
     </div>
   );
 }
